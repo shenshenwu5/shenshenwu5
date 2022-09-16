@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenshenwu5)](https://github.com/shenshenwu5/shenshenwu5)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shenshenwu5)](https://github.comshenshenwu5/shenshenwu5)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shenshenwu5&theme=onedark)](https://github.com/shenshenwu5/shenshenwu5)
