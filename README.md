@@ -14,7 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#####
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+######
 [![shenshenwu5's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenshenwu5&show_icons=true&theme=radical)](https://github.com/shenshenwu5/shenshenwu5)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenshenwu5)](https://github.com/shenshenwu5/shenshenwu5)
-#[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shenshenwu5&repo=homework-of-Introduction-to-Machine-Learning)](https://github.com/shenshenwu5/homework-of-Introduction-to-Machine-Learning)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shenshenwu5)](https://github.comshenshenwu5/shenshenwu5)
