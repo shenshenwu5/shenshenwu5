@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 ######
-[![shenshenwu5's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenshenwu5&show_icons=true&theme=radical)](https://github.com/shenshenwu5/shenshenwu5)
+[![shenshenwu5's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenshenwu5&show_icons=true&)](https://github.com/shenshenwu5/shenshenwu5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenshenwu5&show_icons=true&theme=radical)](https://github.com/shenshenwu5/shenshenwu5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenshenwu5&show_icons=true&)](https://github.com/shenshenwu5/shenshenwu5)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shenshenwu5&theme=onedark)](https://github.com/shenshenwu5/shenshenwu5)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shenshenwu5)](https://github.com/shenshenwu5/shenshenwu5)
