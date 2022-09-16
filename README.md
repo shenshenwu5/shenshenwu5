@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![shenshenwu5's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenshenwu5&show_icons=true&theme=radical)](https://github.com/shenshenwu5/shenshenwu5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenshenwu5)](https://github.com/shenshenwu5/shenshenwu5)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shenshenwu5&show_owner=true&repo=homework-of-Introduction-to-Machine-Learning)](https://github.com/shenshenwu5/homework-of-Introduction-to-Machine-Learning)
